@@ -15,15 +15,15 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
    <b>Gabriel Henrique Pereira</b> <br>
    <a href="https://github.com/GabrielHenrique1784"><img src="https://avatars.githubusercontent.com/u/131368615?v=4" width="80px;" alt="Gabriel"/></a>
    <br>
-   <a href="https://github.com/GabrielHenrique1784"><img src="/pictures/github-logo.png" width="25px;" alt="GitHub"/></a>
-   <a href="https://www.instagram.com/gabriel.gh7/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a>
+   <a href="https://github.com/GabrielHenrique1784"><img src="/imgs/github-logo.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://www.instagram.com/gabriel.gh7/"><img src="/imgs/instagram.png" width="25px;" alt="Instagram"/></a>
 </td>
 <td align="center">
    <b>Henrique Vogelsanger</b> <br>
    <a href="https://github.com/HenriqueVogelsanger"><img src="https://avatars.githubusercontent.com/u/131290336?v=4" width="80px;" alt="Henrique"/></a>
    <br>
-   <a href="https://github.com/HenriqueVogelsanger"><img src="/pictures/github-logo.png" width="25px;" alt="GitHub"/></a>
-   <a href="https://www.instagram.com/henriquevogelsanger/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a>
+   <a href="https://github.com/HenriqueVogelsanger"><img src="/imgs/github-logo.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://www.instagram.com/henriquevogelsanger/"><img src="/imgs/instagram.png" width="25px;" alt="Instagram"/></a>
 </td>
 </tr>
 <tr>
@@ -31,15 +31,15 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
    <b>Davi da Rosa</b> <br>
    <a href="https://github.com/ohdavir"><img src="https://avatars.githubusercontent.com/u/127138118?v=4" width="80px;" alt="Davi"/></a>
    <br>
-   <a href="https://github.com/ohdavir"><img src="/pictures/github-logo.png" width="25px;" alt="GitHub"/></a>
-   <a href="https://www.instagram.com/ohdavi.r/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a>
+   <a href="https://github.com/ohdavir"><img src="/imgs/github-logo.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://www.instagram.com/ohdavi.r/"><img src="/imgs/instagram.png" width="25px;" alt="Instagram"/></a>
 </td>
 <td align="center">
    <b>Ruan Miguel Andrade Da Silva</b> <br>
    <a href="https://github.com/rumians"><img src="https://avatars.githubusercontent.com/u/131881948?v=4" width="80px;" alt="Ruan"/></a>
    <br>
-   <a href="https://github.com/rumians"><img src="/pictures/github-logo.png" width="25px;" alt="GitHub"/></a>
-   <a href="https://www.instagram.com/ruan_megule/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a>
+   <a href="https://github.com/rumians"><img src="/imgs/github-logo.png" width="25px;" alt="GitHub"/></a>
+   <a href="https://www.instagram.com/ruan_megule/"><img src="/imgs/instagram.png" width="25px;" alt="Instagram"/></a>
 </td>
 </tr>
 </table>
@@ -60,11 +60,11 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
 
 <div aling="center">
    
-<img src="/pictures/Figma.png" width="25px;" alt="Figma"/>
+<img src="/imgs/Figma.png" width="25px;" alt="Figma"/>
 
-<img src="/pictures/django.png" width="25px;" alt="Django"/>
+<img src="/imgs/django.png" width="25px;" alt="Django"/>
 
-<img src="/pictures/vue-js-icon.png" width="25px;" alt="Vue.js"/>
+<img src="/imgs/vue-js-icon.png" width="25px;" alt="Vue.js"/>
 
 
 

@@ -66,6 +66,7 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
 
 <img src="/imgs/vue-js-icon.png" width="25px;" alt="Vue.js"/>
 
-
+[Vercel](https://evergreen-leaf.vercel.app)
+[Render](https://backend-i15u.onrender.com/api)
 
 <div/>

@@ -52,6 +52,9 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
 - [Documentação](https://github.com/Evergreen-Leaf/Evergreen-Leaf) 📚
 
 ## Links Úteis
+[Vercel](https://evergreen-leaf.vercel.app)
+
+[Render](https://backend-i15u.onrender.com/api)
 
 - [Figma](https://www.figma.com/design/U0rbN7Tdzqr1EkRqOXGk7C/Evergreen-Leaf?node-id=0-1&p=f&t=7yE6JiJydnvjPArI-0)
 - [Fluxograma](https://www.figma.com/board/nLsU9tRsYmEDT3NeuJwqxm/Fluxograma-Evergreen-Leaf?node-id=0-1&t=luyXcUqiG6wLwN8t-1)
@@ -65,8 +68,5 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
 <img src="/imgs/django.png" width="25px;" alt="Django"/>
 
 <img src="/imgs/vue-js-icon.png" width="25px;" alt="Vue.js"/>
-
-[Vercel](https://evergreen-leaf.vercel.app)
-[Render](https://backend-i15u.onrender.com/api)
 
 <div/>

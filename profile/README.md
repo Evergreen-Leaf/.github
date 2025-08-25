@@ -54,11 +54,8 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
 ## Links Úteis
 
 
--[Vercel](https://evergreen-leaf.vercel.app)
-
-
--[Render](https://backend-i15u.onrender.com/api)
-
+- [Vercel](https://evergreen-leaf.vercel.app)
+- [Render](https://backend-i15u.onrender.com/api)
 - [Figma](https://www.figma.com/design/U0rbN7Tdzqr1EkRqOXGk7C/Evergreen-Leaf?node-id=0-1&p=f&t=7yE6JiJydnvjPArI-0)
 - [Fluxograma](https://www.figma.com/board/nLsU9tRsYmEDT3NeuJwqxm/Fluxograma-Evergreen-Leaf?node-id=0-1&t=luyXcUqiG6wLwN8t-1)
 

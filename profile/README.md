@@ -39,7 +39,7 @@ Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vita
    <a href="https://github.com/rumians"><img src="https://avatars.githubusercontent.com/u/131881948?v=4" width="80px;" alt="Ruan"/></a>
    <br>
    <a href="https://github.com/rumians"><img src="/imgs/github-logo.png" width="25px;" alt="GitHub"/></a>
-   <a href="https://www.instagram.com/ruan_megule/"><img src="/imgs/Instagram.png" width="25px;" alt="Instagram"/></a>
+   <a href="https://www.instagram.com/ruan_megule/"><img src="/imgs/instagram.png" width="25px;" alt="Instagram"/></a>
 </td>
 </tr>
 </table>
